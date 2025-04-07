@@ -1,0 +1,1 @@
+# pełny kod aplikacji zostanie uzupełniony przez frontend/AI blok
